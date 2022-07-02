@@ -26,6 +26,7 @@ from pandas_ta import Imports
 from ._core import verify_series
 
 __all__ = [
+    'combination',
     'erf',
     'fibonacci',
     'geometric_mean',
